@@ -1,0 +1,5 @@
+# Request
+int64 number
+---
+# Response
+string decision
