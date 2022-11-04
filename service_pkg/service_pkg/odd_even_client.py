@@ -9,7 +9,7 @@ class OddEvenCheckClient(Node):
         self.get_logger().info('Service Client Start')
     
     def send_request(self, num):
-        # pass
+        # pass 
         self.client.wait_for_service()
         self.future = self.client.call_async(self.req)
         rclpy.spin_until_future_complete(self, self.future)
