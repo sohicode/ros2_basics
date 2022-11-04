@@ -15,7 +15,7 @@ class OddEvenCheckClient(Node):
         rclpy.spin_until_future_complete(self, self.future)
         self.result = self.future.result()
         return self.result
-
+ 
 
 def main(args=None):
     rclpy.init(args=args)
