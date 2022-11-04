@@ -10,6 +10,10 @@ class OddEvenCheckClient(Node):
     
     def send_request(self, num):
         # pass
+        self.client.wait_for_service()
+        self.future = self.client.call_async(self.req)
+        rclpy.spin_until_future_complete(self, self.future)
+        self.result = self.future.result()
         return self.result
 
 
