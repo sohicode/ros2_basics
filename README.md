@@ -10,8 +10,7 @@ ROS2 foxy 기반 기본 코드를 학습하세요.<br>
 <br>
 참고 링크들
 - rclpy : https://docs.ros2.org/foxy/api/rclpy/
-- Turtlebot3 emanual: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/ 
+- Turtlebot3 emanual: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
 - ROBOTIS-GIT: https://github.com/ROBOTIS-GIT/turtlebot3/tree/foxy-devel
-
 <br>
 Copyright 2023. SohiCode All rights reserved.
