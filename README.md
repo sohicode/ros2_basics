@@ -6,8 +6,12 @@ SohiCode에서 만든 ROS 기본 코드 입니다.<br>
 개발 환경: Ubuntu 20.04, ROS2 foxy
 <br>
 참고 링크들:
-- rclpy : https://docs.ros2.org/foxy/api/rclpy/
+- ROS2 docs: https://docs.ros.org/en/foxy/Tutorials.html
+- ROS2 rclpy: https://docs.ros2.org/foxy/api/rclpy/
+- ROS2 github: https://github.com/ros2
+- ROS2 common_interface: https://github.com/ros2/common_interfaces/tree/foxy
+- ROS2 type: https://design.ros2.org/articles/mapping_dds_types.html
 - Turtlebot3 emanual: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
-- ROBOTIS-GIT: https://github.com/ROBOTIS-GIT/turtlebot3/tree/foxy-devel
+- Turtlebot3 github: https://github.com/ROBOTIS-GIT/turtlebot3/tree/foxy-devel
 <br>
 Copyright 2023. SohiCode All rights reserved.
