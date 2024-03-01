@@ -6,6 +6,8 @@ SohiCode에서 만든 ROS 기본 코드 입니다.<br>
 <br>
 개발 환경: Ubuntu 20.04, ROS2 foxy
 <br>
+ROS 2 CLI turtlesim으로 이해하기: https://www.youtube.com/playlist?list=PLdA3bRGsUufZfsAN2HitPEIDOcQMvTOLQ
+<br>
 참고 링크들:
 - ROS2 docs: https://docs.ros.org/en/foxy/Tutorials.html
 - ROS2 rclpy: https://docs.ros2.org/foxy/api/rclpy/
