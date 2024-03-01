@@ -6,6 +6,7 @@ SohiCode에서 만든 ROS 기본 코드 입니다.<br>
 여러분도 공부할 때 도움이 되길 바래요. ^^<br>
 수업이나 공부 목적으로 얼마든지 사용해도 됩니다. 단, 비영리 목적으로 활용하세요.<br>
 <br>
+거꾸로 수업을 한 영상입니다. 일부만 했어요.<br>
 ROS 2 CLI turtlesim으로 이해하기: https://www.youtube.com/playlist?list=PLdA3bRGsUufZfsAN2HitPEIDOcQMvTOLQ
 <br>
 <br>
