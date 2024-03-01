@@ -1,10 +1,10 @@
 ### SohiCode ROS2 basic
 개발 환경: Ubuntu 20.04, ROS2 foxy<br>
 <br>
-플립 러닝(Flipped Learning) 영상입니다. 일부만 했어요.<br>
-ROS 2 CLI turtlesim으로 이해하기: https://www.youtube.com/playlist?list=PLdA3bRGsUufZfsAN2HitPEIDOcQMvTOLQ
+SohiCode에서 만든 ROS 기본 코드와 수업영상 입니다.<br>
+플립 러닝(Flipped Learning)은 일부만 했기에 아래 내용만 유튜브에 있어요.<br>
+ROS 2 CLI turtlesim으로 이해하기: https://www.youtube.com/playlist?list=PLdA3bRGsUufZfsAN2HitPEIDOcQMvTOLQ<br>
 <br>
-SohiCode에서 만든 ROS 기본 코드 입니다.<br>
 여러분도 공부할 때 도움이 되길 바래요. ^^<br>
 수업이나 공부 목적으로 얼마든지 사용해도 됩니다. 단, 비영리 목적으로 활용하세요.<br>
 <br>
